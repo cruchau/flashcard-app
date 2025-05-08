@@ -1,15 +1,14 @@
 name: flashcard-app
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - python=3.11
   - streamlit
-  - sqlite
   - pandas
-  - matplotlib
+  - matplotlib-base
   - plotly
   - sqlalchemy
   - pip
   - pip:
-      - streamlit-option-menu
+    - streamlit-option-menu
