@@ -1,0 +1,28 @@
+[home]
+name = "🏠 Home"
+icon = "house"
+
+[[pages]]
+path = "pages/1_Flashcards.py"
+name = "🧠 Flashcards"
+icon = "book"
+
+[[pages]]
+path = "pages/2_Statistics.py"
+name = "📊 Statistics"
+icon = "bar-chart"
+
+[[pages]]
+path = "pages/3_Configuration.py"
+name = "⚙️ Configuration"
+icon = "sliders"
+
+[[pages]]
+path = "pages/4_Login.py"
+name = "🔐 Login"
+icon = "log-in"
+
+[[pages]]
+path = "pages/5_Settings.py"
+name = "🛠️ Settings"
+icon = "settings"
